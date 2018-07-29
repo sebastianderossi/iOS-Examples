@@ -23,10 +23,10 @@ The code found here is free for anyone to use but feel free to give me a shout o
 Here are a few screenshots from this repo!
 
 # Simple Calculator
-[![N|Solid](https://raw.github.com/sebastianderossi/CodePen/master/stay-on-target/TrenchRun.gif)](https://github.com/sebastianderossi/iOS-Examples/tree/master/SimpleCalculator)
+[![N|Solid](https://github.com/sebastianderossi/iOS-Examples/blob/master/SimpleCalculator/SimpleCalculator.gif)](https://github.com/sebastianderossi/iOS-Examples/tree/master/SimpleCalculator)
 
 # Load Data
-[![N|Solid]()](https://github.com/sebastianderossi/iOS-Examples/tree/master/LoadData)     
+[![N|Solid](https://github.com/sebastianderossi/iOS-Examples/blob/master/LoadData/LoadData.gif)](https://github.com/sebastianderossi/iOS-Examples/tree/master/LoadData)     
 
 
 All code is **copyright 2018 Sebastian DeRossi** and is free to use, copy, and modify under the MIT license.
