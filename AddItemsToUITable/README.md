@@ -2,11 +2,11 @@
 
 [![N|Solid](https://github.com/sebastianderossi/iOS-Examples/blob/master/AddItemsToUITable/AddItemsToUITable.gif)](https://vimeo.com/282024177)
 
-Want to how to add items to a UITableView dynamcally? 
+Want to see how to add items to a UITableView dynamcally? 
 
 This simple application will show you how to add items to a UITableView. Nothing too fancy going on here... or is fancy?
-Capturing a data from a UIAlertController is might be considered fancy for some of us :D 
-This application is very straight forward: add a string value to a prompt, using that captured input and display it using a UITable... oh ya there is a navigation bar button that kicks this whole process off!
+Capturing data from a UIAlertController might be considered fancy for some of us :D 
+This application is very straightforward: add a string value to a prompt, using that captured input and displaying it using a UITableView... oh ya there is a navigation bar button that kicks this whole process off!
 
 
 Load Data uses **Swift 4.1.2 - Xcode 9.4.1**  
