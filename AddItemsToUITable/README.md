@@ -2,6 +2,8 @@
 
 [![N|Solid](https://github.com/sebastianderossi/iOS-Examples/blob/master/AddItemsToUITable/AddItemsToUITable.gif)](https://vimeo.com/282024177)
 
+Click image above to see it action.
+
 Want to see how to add items to a UITableView dynamcally? 
 
 This simple application will show you how to add items to a UITableView. Nothing too fancy going on here... or is fancy?

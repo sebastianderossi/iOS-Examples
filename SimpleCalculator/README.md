@@ -2,6 +2,8 @@
 
 [![N|Solid](https://github.com/sebastianderossi/iOS-Examples/blob/master/SimpleCalculator/SimpleCalculator.gif)](https://vimeo.com/282016228)
 
+Click image above to see it action.
+
 Want to see a simple calculator app? 
 
 A simple calculator application. Modeled after OSX Calculator (basic view). Simple Calculator performs very basic mathematical operations: addition, subtraction, multiplication, division. Still a work in progress but a useful intro to creating an interactive application using **Swift 4.1.2 - Xcode 9.4.1**  

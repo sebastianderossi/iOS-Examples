@@ -2,7 +2,7 @@ iOS-Examples public Repo
 =========
 
 
-Here are a few screenshots from this repo!
+Here are a few screenshots from this repo! (Click images to jump to its repo)
 
 # Simple Calculator
 [![N|Solid](https://github.com/sebastianderossi/iOS-Examples/blob/master/SimpleCalculator/SimpleCalculator.gif)](https://github.com/sebastianderossi/iOS-Examples/tree/master/SimpleCalculator)

@@ -2,6 +2,8 @@
 
 [![N|Solid](https://github.com/sebastianderossi/iOS-Examples/blob/master/LoadData/LoadData.gif)](https://vimeo.com/282028230)
 
+Click image above to see it action.
+
 Want to see data loading from an external file?  
 
 This simple application will show you how to load and parse JSON data from an external. Once the application has successfully loaded its data, it will display its contents via a UITableView and a UIView. The data structure is organized in a very straightforward way. The data consists of an array of items (title and notes) both are string values to be displayed on the on the application. This application will show you how to load and display your data using a simple navigation scheme. Click on a title on the table and see an accompanying note :)
