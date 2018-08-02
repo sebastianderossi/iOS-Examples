@@ -2,7 +2,7 @@
 
 [![N|Solid](https://github.com/sebastianderossi/iOS-Examples/blob/master/SimpleCalculator/SimpleCalculator.gif)](https://vimeo.com/282016228)
 
-Click image above to see it action.
+Click image above to see it in action.
 
 Want to see a simple calculator app? 
 

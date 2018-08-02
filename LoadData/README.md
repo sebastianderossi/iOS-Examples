@@ -2,7 +2,7 @@
 
 [![N|Solid](https://github.com/sebastianderossi/iOS-Examples/blob/master/LoadData/LoadData.gif)](https://vimeo.com/282028230)
 
-Click image above to see it action.
+Click image above to see it in action.
 
 Want to see data loading from an external file?  
 
