@@ -1,0 +1,54 @@
+ [
+  {
+  "title": "Project list 1",
+  "hasComplete":false,
+  "tasks": [
+            {
+                "title": "item 1",
+                "details": {
+                    "date": "1 - 1 - 2018",
+                    "notes": "This is a note"
+                },
+                "hasComplete": true
+            },
+            {
+                "title": "item 2",
+                "details": {
+                    "date": "1 - 1 - 2018",
+                    "notes": "This is a note 1"
+                },
+                "hasComplete": false
+            }
+            ]
+  },
+  {
+  "title": "Project list 2",
+  "hasComplete":true,
+  "tasks": [
+            {
+            "title": "item 2-1",
+            "details": {
+            "date": "1 - 1 - 2018",
+            "notes": "This is a note"
+            },
+            "hasComplete": false
+            },
+            {
+            "title": "item 2-2",
+            "details": {
+            "date": "1 - 1 - 2018",
+            "notes": "This is a note 1"
+            },
+            "hasComplete": true
+            },
+            {
+            "title": "item 2-3",
+            "details": {
+            "date": "1 - 1 - 2018",
+            "notes": ""
+            },
+            "hasComplete": true
+            }
+            ]
+  }
+  ]
