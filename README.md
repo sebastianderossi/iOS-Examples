@@ -31,7 +31,7 @@ A collection of code demos / prototypes / experiments
 
 Why?
 ----------------
-To show how easy working with iOS can be fun!
+To show how easy working with iOS can be!
 If you build something interesting share it with others and let me know what you made.
 The code found here is free for anyone to use but feel free to give me a shout out.
 
