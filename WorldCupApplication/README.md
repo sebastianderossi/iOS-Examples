@@ -1,6 +1,6 @@
 # WorldCup App
 
-[![N|Solid](https://github.com/sebastianderossi/iOS-Examples/blob/master/WorldCupApp/WorldCupApp.gif)](https://vimeo.com/281855141) 
+[![N|Solid](https://github.com/sebastianderossi/iOS-Examples/blob/master/WorldCupApp/WorldCupApp.gif)](https://vimeo.com/282574050)
 
 Continuing with iOS development, I decided to create a sample application that would display match day scores from the World Cup 2018 in Russia.
 
@@ -10,7 +10,7 @@ The actual JSON data used in this application can be found here: https://github.
 
 Lastly, I can't take full credit for the visual design of this application. I was inspired by the very talented Burhanudin Yusuf (@ucupsaklek)
 
-Check out samples of his work on Dribbble https://dribbble.com/ucupsaklek 
+Check out samples of his work on Dribbble https://dribbble.com/ucupsaklek
 
 ## WorldCup App features:
  - Load/display external data
@@ -25,11 +25,11 @@ Music by Bensound: https://www.bensound.com/
 
 ----------------
 
-#### [Sebastian DeRossi](mailto:sebastian.derossi@gmail.com)   
+#### [Sebastian DeRossi](mailto:sebastian.derossi@gmail.com)
 
 ##### [twitter:@derossi_s](http://www.twitter.com/derossi_s)
 ##### [youtube:www.youtube.com/sebastianderossi](http://www.youtube.com/sebastianderossi)
-##### [vimeo:www.vimeo.com/sderossi](http://www.vimeo.com/sderossi)  
-##### [codepen:www.codepen.io/derossi_s](http://www.codepen.io/derossi_s) 
+##### [vimeo:www.vimeo.com/sderossi](http://www.vimeo.com/sderossi)
+##### [codepen:www.codepen.io/derossi_s](http://www.codepen.io/derossi_s)
 
 All code is **copyright 2018 Sebastian DeRossi** and is free to use, copy, and modify under the MIT license.
