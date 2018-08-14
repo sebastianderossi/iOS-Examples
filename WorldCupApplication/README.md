@@ -1,6 +1,6 @@
 # WorldCup App
 
-[![N|Solid](https://github.com/sebastianderossi/iOS-Examples/blob/master/WorldCupApp/WorldCupApp.gif)](https://vimeo.com/282574050)
+[![N|Solid](https://github.com/sebastianderossi/iOS-Examples/blob/master/WorldCupApplication/WorldCup.gif)](https://vimeo.com/282574050)
 
 Continuing with iOS development, I decided to create a sample application that would display match day scores from the World Cup 2018 in Russia.
 
